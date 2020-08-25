@@ -9,6 +9,8 @@ public class DataTypes {
 
         int myNumber = 239;
 
+        long myLongNumber = 92809497;
+
         double myDoubleVariable = 0.5;
 
         char singleCharacter = 'y';
@@ -34,6 +36,8 @@ public class DataTypes {
         System.out.println("My full name is " + myFirstName + " " +  myLastName);
 
         System.out.println("My double is " + myDoubleVariable);
+
+        System.out.println("My long variable is " + myLongNumber);
 
     }
 }
